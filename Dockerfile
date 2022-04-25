@@ -1,0 +1,1 @@
+FROM pmietlicki/xmrig:latest
